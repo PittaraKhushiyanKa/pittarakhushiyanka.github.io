@@ -1,0 +1,656 @@
+{
+  "schemaVersion": "2.0",
+  "business": {
+    "name": "Pittara Khushiyan Ka",
+    "tagline": "All our products are highly customisable and built with love and customers’ preferences 💖",
+    "contactTagline": "Follow us and reach us anytime 💬",
+    "logo": {
+      "src": "assets/logo/pittara-logo.webp",
+      "width": 380,
+      "height": 387,
+      "alt": "Pittara Khushiyan Ka logo"
+    },
+    "links": {
+      "instagram": "https://www.instagram.com/pittara.khushiyan.ka?igsh=dGdjdGFyaG0wcHhu",
+      "instagramHandle": "@pittara.khushiyan.ka",
+      "whatsapp": [
+        {
+          "id": "diksha",
+          "label": "Diksha (CEO)",
+          "url": "https://wa.me/919465405026"
+        },
+        {
+          "id": "rudra",
+          "label": "Rudra (COO)",
+          "url": "https://wa.me/919878771090"
+        }
+      ],
+      "googleBusiness": "https://share.google/Wm8pTEz6de58om9ON",
+      "googleReview": "https://g.page/r/CeIfOdHdIj1DEAE/review"
+    }
+  },
+  "categories": [
+    "Shagun & Money Gifts",
+    "Baby & Newborn Hampers",
+    "Dry Fruit Platters",
+    "Wedding & Trousseau",
+    "Festive & Snack Hampers",
+    "Personalised & Occasion Gifts",
+    "Uncategorised"
+  ],
+  "products": [
+    {
+      "id": "pkk01",
+      "name": "Palki Cash & Jewellery Shagun Tray",
+      "category": "Shagun & Money Gifts",
+      "instagramUrl": "https://www.instagram.com/reel/Df4NgNiSH12/?avpt=MWI0MmlwY2I1Nmd1cg==",
+      "images": [
+        {
+          "src": "assets/products/pkk01.webp",
+          "thumb": "assets/products/pkk01-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "Palki Cash & Jewellery Shagun Tray — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk02",
+      "name": "Groom’s Suit Trousseau Packing Box",
+      "category": "Wedding & Trousseau",
+      "instagramUrl": "https://www.instagram.com/reel/Df4Nj2mSUNQ/?jplx=em84d3EwMWJzdzZr",
+      "images": [
+        {
+          "src": "assets/products/pkk02.webp",
+          "thumb": "assets/products/pkk02-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "Groom’s Suit Trousseau Packing Box — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk03",
+      "name": "PKK Anniversary Photo & Balloon Platter",
+      "category": "Personalised & Occasion Gifts",
+      "instagramUrl": "https://www.instagram.com/reel/Df4Tnnuy2ie/?cnvx=dXhiaGM5MGpicWxq",
+      "images": [
+        {
+          "src": "assets/products/pkk03.webp",
+          "thumb": "assets/products/pkk03-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "PKK Anniversary Photo & Balloon Platter — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk04",
+      "name": "5-Petal Floral Dry Fruit Platter",
+      "category": "Dry Fruit Platters",
+      "instagramUrl": "https://www.instagram.com/reel/Df4Vtl-ytDj/?cnvx=Z29peml6djdpZmto",
+      "images": [
+        {
+          "src": "assets/products/pkk04.webp",
+          "thumb": "assets/products/pkk04-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "5-Petal Floral Dry Fruit Platter — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk05",
+      "name": "Festive Yellow & Green Snack Hampers",
+      "category": "Festive & Snack Hampers",
+      "instagramUrl": "https://www.instagram.com/reel/Df9cBgOvBpf/?bqrl=cHBpMW9sYnltcWc1",
+      "images": [
+        {
+          "src": "assets/products/pkk05.webp",
+          "thumb": "assets/products/pkk05-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "Festive Yellow & Green Snack Hampers — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk06",
+      "name": "3-Tier Baby Diaper Cake (Himalaya Hamper)",
+      "category": "Baby & Newborn Hampers",
+      "instagramUrl": "https://www.instagram.com/reel/Df9cDpBP0sZ/?fqnt=bnYzYzJtMHN4ODBj",
+      "images": [
+        {
+          "src": "assets/products/pkk06.webp",
+          "thumb": "assets/products/pkk06-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "3-Tier Baby Diaper Cake (Himalaya Hamper) — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk07",
+      "name": "Princess Baby Wardrobe Hamper",
+      "category": "Baby & Newborn Hampers",
+      "instagramUrl": "https://www.instagram.com/reel/Df9cEegPQij/?lqvp=MXhmeDNkNGJkcnR6Zg==",
+      "images": [
+        {
+          "src": "assets/products/pkk07.webp",
+          "thumb": "assets/products/pkk07-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "Princess Baby Wardrobe Hamper — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk08",
+      "name": "“His” Groom Trousseau Shirt Hamper",
+      "category": "Wedding & Trousseau",
+      "instagramUrl": "https://www.instagram.com/reel/Df_iLLaSJGt/?hvrq=bTBzc3k1YjI3dmlv",
+      "images": [
+        {
+          "src": "assets/products/pkk08.webp",
+          "thumb": "assets/products/pkk08-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "“His” Groom Trousseau Shirt Hamper — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk09",
+      "name": "Royal ₹500 Shagun Cash Tray",
+      "category": "Shagun & Money Gifts",
+      "instagramUrl": "https://www.instagram.com/reel/Df_t234yaS0/?bqrl=MTI3OTBuZzRmZm9sYg==",
+      "images": [
+        {
+          "src": "assets/products/pkk09.webp",
+          "thumb": "assets/products/pkk09-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "Royal ₹500 Shagun Cash Tray — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk10",
+      "name": "₹100 Money Bouquet & Trousseau Gift Set",
+      "category": "Shagun & Money Gifts",
+      "instagramUrl": "https://www.instagram.com/reel/Df_-OAKS3Ui/?fqnt=MWs4YmhxcXJ1Y2RqbA==",
+      "images": [
+        {
+          "src": "assets/products/pkk10.webp",
+          "thumb": "assets/products/pkk10-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "₹100 Money Bouquet & Trousseau Gift Set — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk11",
+      "name": "Princess Baby Wardrobe Hamper (“Fufu Ki Ladli & Bhua Ki Jaan”)",
+      "category": "Baby & Newborn Hampers",
+      "instagramUrl": "https://www.instagram.com/reel/DgFTVIxS9pm/?lqvp=MXd6NmhmbzVsejc3aA==",
+      "images": [
+        {
+          "src": "assets/products/pkk11.webp",
+          "thumb": "assets/products/pkk11-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "Princess Baby Wardrobe Hamper (“Fufu Ki Ladli & Bhua Ki Jaan”) — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk12",
+      "name": "“Cuties” Plush Toys & Baby Gift Basket",
+      "category": "Baby & Newborn Hampers",
+      "instagramUrl": "https://www.instagram.com/reel/DgFTbaYys_7/?hvrq=MWk1ZHRyZmk1cm5yNw==",
+      "images": [
+        {
+          "src": "assets/products/pkk12.webp",
+          "thumb": "assets/products/pkk12-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "“Cuties” Plush Toys & Baby Gift Basket — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk13",
+      "name": "Newborn Baby Girl Clothes & Socks Gift Tray",
+      "category": "Baby & Newborn Hampers",
+      "instagramUrl": "https://www.instagram.com/reel/DgFjQnqSJxk/?avpt=Y3lkbHphM3ZmMjl1",
+      "images": [
+        {
+          "src": "assets/products/pkk13.webp",
+          "thumb": "assets/products/pkk13-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "Newborn Baby Girl Clothes & Socks Gift Tray — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk14",
+      "name": "“Comfy” Personalized Baby Clothes Hamper (Kritvi)",
+      "category": "Baby & Newborn Hampers",
+      "instagramUrl": "https://www.instagram.com/reel/DgFjVpuyNHF/?bqrl=OHgxeHZ5aTcxbnRv",
+      "images": [
+        {
+          "src": "assets/products/pkk14.webp",
+          "thumb": "assets/products/pkk14-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "“Comfy” Personalized Baby Clothes Hamper (Kritvi) — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk15",
+      "name": "Mothercare Baby Skincare & Bath Essentials Basket",
+      "category": "Baby & Newborn Hampers",
+      "instagramUrl": "https://www.instagram.com/reel/DgFjiRtSoGx/?avpt=Nm94MGl0bDF5MWNo",
+      "images": [
+        {
+          "src": "assets/products/pkk15.webp",
+          "thumb": "assets/products/pkk15-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "Mothercare Baby Skincare & Bath Essentials Basket — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk16",
+      "name": "₹20 Money Bouquet & Multi-Currency Shagun Tray Combo",
+      "category": "Shagun & Money Gifts",
+      "instagramUrl": "https://www.instagram.com/reel/DgPeqbsyA97/?jplx=YmFrNGM4eDY3dWhs",
+      "images": [
+        {
+          "src": "assets/products/pkk16.webp",
+          "thumb": "assets/products/pkk16-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "₹20 Money Bouquet & Multi-Currency Shagun Tray Combo — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk17",
+      "name": "Net-Wrapped Luxury Blanket Trousseau Hampers",
+      "category": "Wedding & Trousseau",
+      "instagramUrl": "https://www.instagram.com/reel/DgPe2m5ypoF/?fqnt=YzZtMDUzdWh5ZTYy",
+      "images": [
+        {
+          "src": "assets/products/pkk17.webp",
+          "thumb": "assets/products/pkk17-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "Net-Wrapped Luxury Blanket Trousseau Hampers — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk18",
+      "name": "Multi-Currency Shagun Cash Tray (₹50, ₹100, ₹200, ₹500 & $1 Notes)",
+      "category": "Shagun & Money Gifts",
+      "instagramUrl": "https://www.instagram.com/reel/DgPfARAyoxt/?dmpr=MWU5NXU5ajZiYTB4Zg==",
+      "images": [
+        {
+          "src": "assets/products/pkk18.webp",
+          "thumb": "assets/products/pkk18-400w.webp",
+          "width": 960,
+          "height": 720,
+          "thumbWidth": 400,
+          "thumbHeight": 300,
+          "alt": "Multi-Currency Shagun Cash Tray (₹50, ₹100, ₹200, ₹500 & $1 Notes) — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk19",
+      "name": "“Nanu Nani Ki Jaan” Baby Wardrobe & Toy Hamper",
+      "category": "Baby & Newborn Hampers",
+      "instagramUrl": "https://www.instagram.com/reel/Df1yzBmSIjA/?dmpr=MXE2ZGMxNzZ1Y2gwNg==",
+      "images": [
+        {
+          "src": "assets/products/pkk19.webp",
+          "thumb": "assets/products/pkk19-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "“Nanu Nani Ki Jaan” Baby Wardrobe & Toy Hamper — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk20",
+      "name": "“Mausi Mausa Ki Jaan” Baby Girl Dress & Wardrobe Rack",
+      "category": "Baby & Newborn Hampers",
+      "instagramUrl": "https://www.instagram.com/reel/Df1y2WAS0IH/?jplx=MWI3Z2poMmtoY2t0cQ==",
+      "images": [
+        {
+          "src": "assets/products/pkk20.webp",
+          "thumb": "assets/products/pkk20-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "“Mausi Mausa Ki Jaan” Baby Girl Dress & Wardrobe Rack — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk21",
+      "name": "Net-Wrapped Mee Mee Musical Cot Mobile Gift Box",
+      "category": "Baby & Newborn Hampers",
+      "instagramUrl": "https://www.instagram.com/reel/Df4I0KWSnd8/?avpt=cXAyajc1YTUxcmox",
+      "images": [
+        {
+          "src": "assets/products/pkk21.webp",
+          "thumb": "assets/products/pkk21-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "Net-Wrapped Mee Mee Musical Cot Mobile Gift Box — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk22",
+      "name": "Powder Blue Acrylic ₹500 Shagun Cash & Floral Box",
+      "category": "Shagun & Money Gifts",
+      "instagramUrl": "https://www.instagram.com/reel/Df4JSqRSQZt/?hvrq=MTJzbTdoa2o5M256bQ==",
+      "images": [
+        {
+          "src": "assets/products/pkk22.webp",
+          "thumb": "assets/products/pkk22-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "Powder Blue Acrylic ₹500 Shagun Cash & Floral Box — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk23",
+      "name": "Sky Blue Net Pouch 7-Jar Dry Fruit Tray",
+      "category": "Dry Fruit Platters",
+      "instagramUrl": "https://www.instagram.com/reel/Df4Jk-iSykS/?lqvp=cml2cTU2N2plb2Qx",
+      "images": [
+        {
+          "src": "assets/products/pkk23.webp",
+          "thumb": "assets/products/pkk23-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "Sky Blue Net Pouch 7-Jar Dry Fruit Tray — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk24",
+      "name": "Blush Pink & Gold Pearl Dry Fruit Pouch Basket",
+      "category": "Dry Fruit Platters",
+      "instagramUrl": "https://www.instagram.com/reel/Df4JxvKSJI6/?avpt=bm1ucmdqYXJtbnBh",
+      "images": [
+        {
+          "src": "assets/products/pkk24.webp",
+          "thumb": "assets/products/pkk24-400w.webp",
+          "width": 960,
+          "height": 925,
+          "thumbWidth": 400,
+          "thumbHeight": 385,
+          "alt": "Blush Pink & Gold Pearl Dry Fruit Pouch Basket — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk25",
+      "name": "Powder Blue Pleated Fan 7-Bowl Dry Fruit Platter",
+      "category": "Dry Fruit Platters",
+      "instagramUrl": "https://www.instagram.com/reel/Df4KFz5SNo9/?evlk=MTYyOGY0cnlhbDh6ZQ==",
+      "images": [
+        {
+          "src": "assets/products/pkk25.webp",
+          "thumb": "assets/products/pkk25-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "Powder Blue Pleated Fan 7-Bowl Dry Fruit Platter — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk26",
+      "name": "Pearl-Bordered Floral & Wheat Dry Fruit Platter",
+      "category": "Dry Fruit Platters",
+      "instagramUrl": "https://www.instagram.com/reel/Df4L88OySpO/?dmpr=M3Q0ZWhiNGI4Z2Vh",
+      "images": [
+        {
+          "src": "assets/products/pkk26.webp",
+          "thumb": "assets/products/pkk26-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "Pearl-Bordered Floral & Wheat Dry Fruit Platter — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk27",
+      "name": "“Damad Ji” Groom Suit & Complete Grooming Trousseau Box",
+      "category": "Wedding & Trousseau",
+      "instagramUrl": "https://www.instagram.com/reel/Df4NEGbygQE/?bqrl=MTZiNzQ4NHBhb25oNw==",
+      "images": [
+        {
+          "src": "assets/products/pkk27.webp",
+          "thumb": "assets/products/pkk27-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "“Damad Ji” Groom Suit & Complete Grooming Trousseau Box — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk28",
+      "name": "Royal ₹20 Note Shagun Cash Box with Pearl & Floral Trim",
+      "category": "Shagun & Money Gifts",
+      "instagramUrl": "https://www.instagram.com/reel/Df4NRKQS864/?gwpx=YWtiZDFrenR4OGFx",
+      "images": [
+        {
+          "src": "assets/products/pkk28.webp",
+          "thumb": "assets/products/pkk28-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "Royal ₹20 Note Shagun Cash Box with Pearl & Floral Trim — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk29",
+      "name": "Pink & Gold Gota Patti Festive Snack Tray",
+      "category": "Festive & Snack Hampers",
+      "instagramUrl": "https://www.instagram.com/reel/DfZERB5tNH8/?cnvx=MWw2dDVsbWdlOWt5dA==",
+      "images": [
+        {
+          "src": "assets/products/pkk29.webp",
+          "thumb": "assets/products/pkk29-400w.webp",
+          "width": 540,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 711,
+          "alt": "Pink & Gold Gota Patti Festive Snack Tray — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk30",
+      "name": "Classic Snacks, Cookies & Soft Drinks Gift Tray",
+      "category": "Festive & Snack Hampers",
+      "instagramUrl": "https://www.instagram.com/reel/DfZUoTzS-Bt/?evlk=MXoxbTBjdHY1bDIw",
+      "images": [
+        {
+          "src": "assets/products/pkk30.webp",
+          "thumb": "assets/products/pkk30-400w.webp",
+          "width": 540,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 711,
+          "alt": "Classic Snacks, Cookies & Soft Drinks Gift Tray — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk31",
+      "name": "Personalized Men’s Gift Box (Shirt, Flask, Wallet, Belt & Chocolates)",
+      "category": "Personalised & Occasion Gifts",
+      "instagramUrl": "https://www.instagram.com/reel/DfecwMsJDfz/?evlk=MWx0Y2RucW96OTZ3cQ==",
+      "images": [
+        {
+          "src": "assets/products/pkk31.webp",
+          "thumb": "assets/products/pkk31-400w.webp",
+          "width": 540,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 711,
+          "alt": "Personalized Men’s Gift Box (Shirt, Flask, Wallet, Belt & Chocolates) — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk32",
+      "name": "“You Are Precious” Birthday Photo Memory Box & Mug Hamper",
+      "category": "Personalised & Occasion Gifts",
+      "instagramUrl": "https://www.instagram.com/reel/Dfg_bHEy66x/?gwpx=MXVtMWh5ZnlreG1rdQ==",
+      "images": [
+        {
+          "src": "assets/products/pkk32.webp",
+          "thumb": "assets/products/pkk32-400w.webp",
+          "width": 536,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 716,
+          "alt": "“You Are Precious” Birthday Photo Memory Box & Mug Hamper — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk33",
+      "name": "“Best Brother” Rakhi Chocolates & Snacks Hamper",
+      "category": "Festive & Snack Hampers",
+      "instagramUrl": "https://www.instagram.com/reel/Dfo5eG4yEsL/?knvt=MXJ1dDJtemZuNTVucQ==",
+      "images": [
+        {
+          "src": "assets/products/pkk33.webp",
+          "thumb": "assets/products/pkk33-400w.webp",
+          "width": 894,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 430,
+          "alt": "“Best Brother” Rakhi Chocolates & Snacks Hamper — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk34",
+      "name": "5-Bowl Gold Pleated Fan Dry Fruit Platter",
+      "category": "Dry Fruit Platters",
+      "instagramUrl": "https://www.instagram.com/reel/DfrXrJBJ3tr/?knvt=OGx3M2V4ZndxM3V6",
+      "images": [
+        {
+          "src": "assets/products/pkk34.webp",
+          "thumb": "assets/products/pkk34-400w.webp",
+          "width": 885,
+          "height": 960,
+          "thumbWidth": 400,
+          "thumbHeight": 434,
+          "alt": "5-Bowl Gold Pleated Fan Dry Fruit Platter — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "pkk35",
+      "name": "Purple Fairy Butterfly Princess Wardrobe Hamper",
+      "category": "Baby & Newborn Hampers",
+      "instagramUrl": "https://www.instagram.com/reel/Df1ysNzy4PU/?cnvx=YXdwYmp6eW1jYXpw",
+      "images": [
+        {
+          "src": "assets/products/pkk35.webp",
+          "thumb": "assets/products/pkk35-400w.webp",
+          "width": 960,
+          "height": 720,
+          "thumbWidth": 400,
+          "thumbHeight": 300,
+          "alt": "Purple Fairy Butterfly Princess Wardrobe Hamper — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    },
+    {
+      "id": "mwrp45wgm8oo0",
+      "name": "Money Bouquet (₹50 Notes)",
+      "category": "Shagun & Money Gifts",
+      "instagramUrl": "https://www.instagram.com/reel/DfmL3jQyDCk/?dmpr=MzZyMWE0b2NiZXky",
+      "images": [
+        {
+          "src": "assets/products/mwrp45wgm8oo0.webp",
+          "thumb": "assets/products/mwrp45wgm8oo0.webp",
+          "width": 293,
+          "height": 520,
+          "thumbWidth": 293,
+          "thumbHeight": 520,
+          "alt": "Money Bouquet (₹50 Notes) — custom gifting creation by Pittara Khushiyan Ka"
+        }
+      ]
+    }
+  ],
+  "reviews": []
+}
